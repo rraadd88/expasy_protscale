@@ -1,0 +1,57 @@
+ProtScale Tool: Molecular weight of each amino acid.: https://web.expasy.org/protscale/pscale/Molecularweight.html
+ProtScale Tool: Bulkiness.: https://web.expasy.org/protscale/pscale/Bulkiness.html
+ProtScale Tool: Polarity (p).: https://web.expasy.org/protscale/pscale/PolarityGrantham.html
+ProtScale Tool: Recognition factors.: https://web.expasy.org/protscale/pscale/Recognitionfactors.html
+ProtScale Tool: Optimized matching hydrophobicity (OMH).: https://web.expasy.org/protscale/pscale/Hphob.Sweet.html
+Amino acid scale: Hydropathicity: https://web.expasy.org/protscale/pscale/Hphob.Doolittle.html
+ProtScale Tool: Hydrophobicity (delta G1/2 cal): https://web.expasy.org/protscale/pscale/Hphob.Leo.html
+ProtScale Tool: Hydrophobicity (free energy of transfer to surface in kcal/mole).: https://web.expasy.org/protscale/pscale/Hphob.Breese.html
+ProtScale Tool: Hydrophobicity scale based on free energy of transfer (kcal/mole).: https://web.expasy.org/protscale/pscale/Hphob.Guy.html
+ProtScale Tool: Hydrophobicity scale (contact energy derived from 3D data).: https://web.expasy.org/protscale/pscale/Hphob.Miyazawa.html
+ProtScale Tool: Hydrophobicity scale (pi-r).: https://web.expasy.org/protscale/pscale/Hphob.Roseman.html
+ProtScale Tool: Hydration potential (kcal/mole) at 25C.: https://web.expasy.org/protscale/pscale/Hphob.Wolfenden.html
+ProtScale Tool: Hydrophobic constants derived from HPLC peptide retention times.: https://web.expasy.org/protscale/pscale/Hphob.Wilson.html
+ProtScale Tool: Hydrophobicity indices at ph 3.4 determined by HPLC.: https://web.expasy.org/protscale/pscale/Hphob.pH3.4.html
+ProtScale Tool: Mobilities of amino acids on chromatography paper (RF).: https://web.expasy.org/protscale/pscale/Hphob.mobility.html
+ProtScale Tool: Retention coefficient in TFA.: https://web.expasy.org/protscale/pscale/HPLCTFA.html
+ProtScale Tool: Retention coefficient in HPLC, pH 2.1.: https://web.expasy.org/protscale/pscale/HPLC2.1.html
+ProtScale Tool: Molar fraction (%) of 2001 buried residues.: https://web.expasy.org/protscale/pscale/buriedresidues.html
+ProtScale Tool: Proportion of residues 95% buried (in 12 proteins).: https://web.expasy.org/protscale/pscale/Hphob.Chothia.html
+ProtScale Tool: Atomic weight ratio of hetero elements in end group to C in side chain.: https://web.expasy.org/protscale/pscale/Ratioside.html
+ProtScale Tool: Average flexibility index.: https://web.expasy.org/protscale/pscale/Averageflexibility.html
+ProtScale Tool: Conformational parameter for beta-sheet (computed from 29 proteins).: https://web.expasy.org/protscale/pscale/beta-sheetFasman.html
+ProtScale Tool: Conformational parameter for alpha helix.: https://web.expasy.org/protscale/pscale/alpha-helixRoux.html
+ProtScale Tool: Conformational parameter for beta-turn: https://web.expasy.org/protscale/pscale/beta-turnRoux.html
+ProtScale Tool: Normalized frequency for alpha helix.: https://web.expasy.org/protscale/pscale/alpha-helixLevitt.html
+ProtScale Tool: Normalized frequency for beta-turn.: https://web.expasy.org/protscale/pscale/beta-turnLevitt.html
+ProtScale Tool: Conformational preference for antiparallel beta strand.: https://web.expasy.org/protscale/pscale/Antiparallelbeta-strand.html
+ProtScale Tool: Overall amino acid composition (%).: https://web.expasy.org/protscale/pscale/A.A.composition.html
+ProtScale Tool: Relative mutability of amino acids (Ala=100).: https://web.expasy.org/protscale/pscale/Relativemutability.html
+ProtScale Tool: Number of codon(s) coding for each amino acid in universal genetic code.: https://web.expasy.org/protscale/pscale/Numbercodons.html
+ProtScale Tool: Polarity.: https://web.expasy.org/protscale/pscale/PolarityZimmerman.html
+ProtScale Tool: Refractivity.: https://web.expasy.org/protscale/pscale/Refractivity.html
+ProtScale Tool: Normalized consensus hydrophobicity scale.: https://web.expasy.org/protscale/pscale/Hphob.Eisenberg.html
+ProtScale Tool: Hydrophilicity.: https://web.expasy.org/protscale/pscale/Hphob.Woods.html
+ProtScale Tool: Average surrounding hydrophobicity.: https://web.expasy.org/protscale/pscale/Hphob.Manavalan.html
+ProtScale Tool: Hydrophobicity of physiological L-alpha amino acids: https://web.expasy.org/protscale/pscale/Hphob.Black.html
+ProtScale Tool: Hydrophobicity scale (pi-r).: https://web.expasy.org/protscale/pscale/Hphob.Fauchere.html
+ProtScale Tool: Free energy of transfer from inside to outside of a globular protein.: https://web.expasy.org/protscale/pscale/Hphob.Janin.html
+ProtScale Tool: Membrane buried helix parameter.: https://web.expasy.org/protscale/pscale/Hphob.Argos.html
+ProtScale Tool: Hydrophobicity scale (Contribution of hydrophobic interactions to the stability of the globular conformation of proteins).: https://web.expasy.org/protscale/pscale/Hphob.Tanford.html
+ProtScale Tool: Antigenicity value X 10.: https://web.expasy.org/protscale/pscale/Hphob.Welling.html
+ProtScale Tool: Hydrophilicity scale derived from HPLC peptide retention times.: https://web.expasy.org/protscale/pscale/Hphob.Parker.html
+ProtScale Tool: Hydrophobicity indices at ph 7.5 determined by HPLC.: https://web.expasy.org/protscale/pscale/Hphob.pH7.5.html
+ProtScale Tool: Retention coefficient in HFBA.: https://web.expasy.org/protscale/pscale/HPLCHFBA.html
+ProtScale Tool: Transmembrane tendency: https://web.expasy.org/protscale/pscale/Transmembranetendency.html
+ProtScale Tool: Retention coefficient in HPLC, pH 7.4.: https://web.expasy.org/protscale/pscale/HPLC7.4.html
+ProtScale Tool: Molar fraction (%) of 3220 accessible residues.: https://web.expasy.org/protscale/pscale/accessibleresidues.html
+ProtScale Tool: Mean fractional area loss (f) [average area buried/standard state area].: https://web.expasy.org/protscale/pscale/Hphob.Rose.html
+ProtScale Tool: Average area buried on transfer from standard state to folded protein.: https://web.expasy.org/protscale/pscale/Averageburied.html
+ProtScale Tool: Conformational parameter for alpha helix (computed from 29 proteins).: https://web.expasy.org/protscale/pscale/alpha-helixFasman.html
+ProtScale Tool: Conformational parameter for beta-turn (computed from 29 proteins).: https://web.expasy.org/protscale/pscale/beta-turnFasman.html
+ProtScale Tool: Conformational parameter for beta-sheet.: https://web.expasy.org/protscale/pscale/beta-sheetRoux.html
+ProtScale Tool: Conformational parameter for coil.: https://web.expasy.org/protscale/pscale/CoilRoux.html
+ProtScale Tool: Normalized frequency for beta-sheet.: https://web.expasy.org/protscale/pscale/beta-sheetLevitt.html
+ProtScale Tool: Conformational preference for total beta strand (antiparallel+parallel).: https://web.expasy.org/protscale/pscale/Totalbeta-strand.html
+ProtScale Tool: Conformational preference for parallel beta strand.: https://web.expasy.org/protscale/pscale/Parallelbeta-strand.html
+ProtScale Tool: Amino acid composition (%) in the UniProtKB/Swiss-Prot data bank.: https://web.expasy.org/protscale/pscale/A.A.Swiss-Prot.html
