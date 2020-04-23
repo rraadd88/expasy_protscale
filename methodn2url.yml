@@ -1,0 +1,56 @@
+Amino acid composition (%) in the UniProtKB/Swiss-Prot data bank.: https://web.expasy.org/protscale/pscale/A.A.Swiss-Prot.html
+Antigenicity value X 10.: https://web.expasy.org/protscale/pscale/Hphob.Welling.html
+Atomic weight ratio of hetero elements in end group to C in side chain.: https://web.expasy.org/protscale/pscale/Ratioside.html
+Average area buried on transfer from standard state to folded protein.: https://web.expasy.org/protscale/pscale/Averageburied.html
+Average flexibility index.: https://web.expasy.org/protscale/pscale/Averageflexibility.html
+Average surrounding hydrophobicity.: https://web.expasy.org/protscale/pscale/Hphob.Manavalan.html
+Bulkiness.: https://web.expasy.org/protscale/pscale/Bulkiness.html
+Conformational parameter for alpha helix (computed from 29 proteins).: https://web.expasy.org/protscale/pscale/alpha-helixFasman.html
+Conformational parameter for alpha helix.: https://web.expasy.org/protscale/pscale/alpha-helixRoux.html
+Conformational parameter for beta-sheet (computed from 29 proteins).: https://web.expasy.org/protscale/pscale/beta-sheetFasman.html
+Conformational parameter for beta-sheet.: https://web.expasy.org/protscale/pscale/beta-sheetRoux.html
+Conformational parameter for beta-turn: https://web.expasy.org/protscale/pscale/beta-turnRoux.html
+Conformational parameter for beta-turn (computed from 29 proteins).: https://web.expasy.org/protscale/pscale/beta-turnFasman.html
+Conformational parameter for coil.: https://web.expasy.org/protscale/pscale/CoilRoux.html
+Conformational preference for antiparallel beta strand.: https://web.expasy.org/protscale/pscale/Antiparallelbeta-strand.html
+Conformational preference for parallel beta strand.: https://web.expasy.org/protscale/pscale/Parallelbeta-strand.html
+Conformational preference for total beta strand (antiparallel+parallel).: https://web.expasy.org/protscale/pscale/Totalbeta-strand.html
+Free energy of transfer from inside to outside of a globular protein.: https://web.expasy.org/protscale/pscale/Hphob.Janin.html
+Hydration potential (kcal/mole) at 25C.: https://web.expasy.org/protscale/pscale/Hphob.Wolfenden.html
+Hydropathicity: https://web.expasy.org/protscale/pscale/Hphob.Doolittle.html
+Hydrophilicity scale derived from HPLC peptide retention times.: https://web.expasy.org/protscale/pscale/Hphob.Parker.html
+Hydrophilicity.: https://web.expasy.org/protscale/pscale/Hphob.Woods.html
+Hydrophobic constants derived from HPLC peptide retention times.: https://web.expasy.org/protscale/pscale/Hphob.Wilson.html
+Hydrophobicity (delta G1/2 cal): https://web.expasy.org/protscale/pscale/Hphob.Leo.html
+Hydrophobicity (free energy of transfer to surface in kcal/mole).: https://web.expasy.org/protscale/pscale/Hphob.Breese.html
+Hydrophobicity indices at ph 3.4 determined by HPLC.: https://web.expasy.org/protscale/pscale/Hphob.pH3.4.html
+Hydrophobicity indices at ph 7.5 determined by HPLC.: https://web.expasy.org/protscale/pscale/Hphob.pH7.5.html
+Hydrophobicity of physiological L-alpha amino acids: https://web.expasy.org/protscale/pscale/Hphob.Black.html
+Hydrophobicity scale (Contribution of hydrophobic interactions to the stability of the globular conformation of proteins).: https://web.expasy.org/protscale/pscale/Hphob.Tanford.html
+Hydrophobicity scale (contact energy derived from 3D data).: https://web.expasy.org/protscale/pscale/Hphob.Miyazawa.html
+Hydrophobicity scale (pi-r).: https://web.expasy.org/protscale/pscale/Hphob.Fauchere.html
+Hydrophobicity scale based on free energy of transfer (kcal/mole).: https://web.expasy.org/protscale/pscale/Hphob.Guy.html
+Mean fractional area loss (f) [average area buried/standard state area].: https://web.expasy.org/protscale/pscale/Hphob.Rose.html
+Membrane buried helix parameter.: https://web.expasy.org/protscale/pscale/Hphob.Argos.html
+Mobilities of amino acids on chromatography paper (RF).: https://web.expasy.org/protscale/pscale/Hphob.mobility.html
+Molar fraction (%) of 2001 buried residues.: https://web.expasy.org/protscale/pscale/buriedresidues.html
+Molar fraction (%) of 3220 accessible residues.: https://web.expasy.org/protscale/pscale/accessibleresidues.html
+Molecular weight of each amino acid.: https://web.expasy.org/protscale/pscale/Molecularweight.html
+Normalized consensus hydrophobicity scale.: https://web.expasy.org/protscale/pscale/Hphob.Eisenberg.html
+Normalized frequency for alpha helix.: https://web.expasy.org/protscale/pscale/alpha-helixLevitt.html
+Normalized frequency for beta-sheet.: https://web.expasy.org/protscale/pscale/beta-sheetLevitt.html
+Normalized frequency for beta-turn.: https://web.expasy.org/protscale/pscale/beta-turnLevitt.html
+Number of codon(s) coding for each amino acid in universal genetic code.: https://web.expasy.org/protscale/pscale/Numbercodons.html
+Optimized matching hydrophobicity (OMH).: https://web.expasy.org/protscale/pscale/Hphob.Sweet.html
+Overall amino acid composition (%).: https://web.expasy.org/protscale/pscale/A.A.composition.html
+Polarity (p).: https://web.expasy.org/protscale/pscale/PolarityGrantham.html
+Polarity.: https://web.expasy.org/protscale/pscale/PolarityZimmerman.html
+Proportion of residues 95% buried (in 12 proteins).: https://web.expasy.org/protscale/pscale/Hphob.Chothia.html
+Recognition factors.: https://web.expasy.org/protscale/pscale/Recognitionfactors.html
+Refractivity.: https://web.expasy.org/protscale/pscale/Refractivity.html
+Relative mutability of amino acids (Ala=100).: https://web.expasy.org/protscale/pscale/Relativemutability.html
+Retention coefficient in HFBA.: https://web.expasy.org/protscale/pscale/HPLCHFBA.html
+Retention coefficient in HPLC, pH 2.1.: https://web.expasy.org/protscale/pscale/HPLC2.1.html
+Retention coefficient in HPLC, pH 7.4.: https://web.expasy.org/protscale/pscale/HPLC7.4.html
+Retention coefficient in TFA.: https://web.expasy.org/protscale/pscale/HPLCTFA.html
+Transmembrane tendency: https://web.expasy.org/protscale/pscale/Transmembranetendency.html

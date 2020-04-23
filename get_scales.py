@@ -1,20 +1,10 @@
 from rohan.global_imports import *
-lines=open('data/database/expasy_protscale/urls.txt','r').readlines()
+lines=open('urls.txt','r').readlines()
 methodn2url={s.split(': ')[1]:s.split(': ')[2].replace('\n','') for s in lines}
-to_dict(methodn2url,'data/database/methodn2url.yml')
+to_dict(methodn2url,'methodn2url.yml')
 
-methodn2url=read_dict('data/database/methodn2url.yml')
-
-# def read_url(url):
-#     # read text on url
-#     from urllib.request import urlopen
-#     f = urlopen(url)
-#     myfile = f.read()
-#     return str(myfile)
+methodn2url=read_dict('methodn2url.yml')
 from rohan.dandage.io_files import read_url
-
-# grand average hydropathy
-
 keys=['Author(s):</B> ',
     'Reference:</B> ',
      'Ala: ',
@@ -48,13 +38,12 @@ def get_protscale(url,test=False):
     for k,s in zip(keys,lines):
         d1[replacemany(k,[':</B> ',': '])]=s.split(k)[1]
     ks=['Author(s)', 'Reference']
-    d2={'scale':{IUPACData.protein_letters_3to1[k]:float(d[k]) for k in d if not k in ks}}
+    d2={'scale':{IUPACData.protein_letters_3to1[k]:float(d1[k]) for k in d1 if not k in ks}}
     for k in ks:
         d2[k]=d1[k]
     return d2
 
 methodn2scale={k: get_protscale(methodn2url[k])  for k in methodn2url}
-
 methodn2scale['Stickiness']={
 'Author(s)':'Emmanuel D. Levy, Subhajyoti De, and Sarah A. Teichmann',
 'Reference':'Cellular crowding imposes global constraints on the chemistry and evolution of proteomes (2012)',
@@ -79,4 +68,4 @@ methodn2scale['Stickiness']={
 'W': 0.7925,
 'Y': 0.8806,}
 }
-to_dict(methodn2scale,'data/database/expasy_protscale/methodn2scale.yml')
+to_dict(methodn2scale,'methodn2scale.yml')
